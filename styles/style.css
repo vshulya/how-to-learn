@@ -61,10 +61,11 @@
   text-decoration: none;
 }
 
+/* TODO remove comments
 .link:hover {
   opacity: 40%;
   transition: .3s;
-}
+} */
 
 .header__main-illustration {
   width: 765px;
@@ -211,11 +212,10 @@
   gap: 10px;
 }
 
-
-
 .video__iframe {
   width: 515px;
   height: 316px;
+  border: 0;
 }
 
 /* oakley */
@@ -231,7 +231,6 @@
   display: flex;
   justify-content: center;
 }
-
 
 /* feynman */
 
@@ -430,7 +429,6 @@
   align-items: center;
   margin: 0 auto;
   padding: 90px 0;
-
 }
 
 .kaufman__triangle {
@@ -522,8 +520,6 @@ align-items: center;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  left: 0;
-  bottom: 0;
 }
 
 .footer__column-heading {
