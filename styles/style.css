@@ -61,11 +61,10 @@
   text-decoration: none;
 }
 
-/* TODO remove comments
 .link:hover {
   opacity: 40%;
   transition: .3s;
-} */
+} 
 
 .header__main-illustration {
   width: 765px;
@@ -411,7 +410,7 @@
   object-position: top;
 }
 
-.knan__buy-link {
+.khan__buy-link {
   line-height: 42px;
   font-size: 30px;
   text-decoration: none;
