@@ -2,5 +2,6 @@
   margin-top: 68px;
   display: flex;
   flex-direction: row;
+  align-items: flex-start;
   gap: 48px;
 }
