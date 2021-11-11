@@ -15,7 +15,6 @@
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
-@import url(../blocks/two-columns/_place/two-columns_place_oakley.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/cards__description.css);
@@ -39,7 +38,6 @@
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
-@import url(../blocks/table/__cell/_theme/table__cell_theme_light.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/khan/khan.css);
@@ -68,7 +66,3 @@
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/link/link.css);
-
-
-
-
