@@ -1,16 +1,18 @@
-# Проект Научиться Учиться
+# Project How to Learn
 
+## About 
+A landing page with simple animation 
 
-## О проекте
-Посадочная страница про техники обучения, созданная в рамках обучения на курсе Веб-разработчик от Яндекс Практикум. Это мои первые шаги в HTML и CSS.
+Layout was made according to the brief provided by the course Ya.Praktikum. 
+This project was my first steps in HTML and CSS. I practiced in positioning elements within a page and creating simple animations.
 
-## Что использовано на странице
-1. flex и grid-layout
-2. iframes
-3. псевдоклассы
- 
+File structure is organised according to BEM-methodology.
 
-## Особенности проекта
-Файловая структура CSS создана по методолгии БЭМ, что позволяет легко переиспользовать блоки для разных секций страницы.
+## Stack
+HTML5;
+CSS3;
+Flexbox-layouting;
+Working with media files;
+
 
 https://vshulya.github.io/how-to-learn/
