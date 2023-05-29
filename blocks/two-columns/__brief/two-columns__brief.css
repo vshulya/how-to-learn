@@ -4,3 +4,9 @@
   font-weight: normal;
   color: #2f80ed;
 }
+
+@media screen and (max-width: 560px) {
+  .two-columns__brief {
+    flex: 1 100%;
+  }
+}

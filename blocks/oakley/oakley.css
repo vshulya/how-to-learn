@@ -4,3 +4,10 @@
   display: flex;
   justify-content: center;
 }
+
+@media screen and (max-width: 560px) {
+  .oakley {
+    display: flex;
+    flex-flow: row wrap;
+  }
+}

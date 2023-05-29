@@ -6,3 +6,9 @@
   flex-flow: column;
   gap: 30px;
 }
+
+@media screen and (max-width: 560px) {
+  .two-columns__main-text {
+    flex: 2;
+  }
+}

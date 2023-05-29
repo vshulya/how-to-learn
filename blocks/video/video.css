@@ -4,3 +4,9 @@
   align-items: center;
   flex-direction: column;
 }
+
+@media screen and (max-width: 560px) {
+  .video {
+    margin-top: 50px;
+  }
+}
