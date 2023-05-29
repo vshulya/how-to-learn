@@ -1,10 +1,20 @@
 .feynman__title {
   margin: 0;
-  max-width: 648px;
-  width: 100%;
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
   text-align: center;
   z-index: 3;
+}
+
+@media screen and (max-width: 960px) {
+  .feynman__title {
+    font-size: 82px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .feynman__title {
+    font-size: 60px;
+  }
 }

@@ -2,4 +2,11 @@
   position: absolute;
   top: 30px;
   left: 64px;
+  z-index: 4;
+}
+
+@media screen and (max-width: 560px) {
+  .logo_place_header {
+    left: 20px;
+  }
 }

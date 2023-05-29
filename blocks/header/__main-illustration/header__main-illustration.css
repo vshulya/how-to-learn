@@ -8,3 +8,18 @@
   bottom: 0;
   right: 0;
 }
+
+@media screen and (max-width: 960px) {
+  .header__main-illustration {
+  width: 530px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .header__main-illustration {
+  width: 350px;
+  position: absolute;
+  top: 200;
+  right: 0;
+  }
+}

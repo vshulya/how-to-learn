@@ -1,8 +1,19 @@
 .feynman__photo {
   width: 867px;
-  height: 637px;
   position: absolute;
   bottom: 0;
   left: 0;
   z-index: 2;
+}
+
+@media screen and (max-width: 1120px) {
+  .feynman__photo {
+    width: 730px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .feynman__photo {
+    width: 426px;
+  }
 }

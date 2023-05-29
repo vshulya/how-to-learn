@@ -4,3 +4,16 @@
   object-fit: cover;
   object-position: top;
 }
+
+@media screen and (max-width: 960px) {
+  .khan__book-pic {
+    width: 462px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .khan__book-pic {
+    width: 160px;
+    height: 230px;
+  }
+}

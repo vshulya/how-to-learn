@@ -8,3 +8,11 @@
   align-items: center;
   z-index: 1;
 }
+
+@media screen and (max-width: 560px) {
+  .feynman {
+    min-height: 692px;
+  }
+}
+
+

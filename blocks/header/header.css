@@ -1,6 +1,6 @@
 .header {
   height: 100vh;
-  min-height: 600px;
+  /* min-height: 600px; */
   max-height: 756px;
   padding-left: 64px;
   background-color: #f2f2f2;
@@ -8,5 +8,11 @@
   display: flex;
   z-index: 1;
   overflow: hidden;
-  /* выше установили ограничения для секции */
 }
+
+@media screen and (max-width: 560px) {
+  .header {
+    padding-left: 0;
+  }
+}
+

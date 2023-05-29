@@ -1,9 +1,35 @@
 .header__title {
   margin: 0;
   max-width: 730px;
-  line-height: 96px;
+  /* line-height: 96px; */
   font-size: 102px;
   font-weight: bold;
   align-self: center;
   z-index: 4;
 }
+
+@media screen and (max-width: 1120px) {
+  .header__title {
+    max-width: 450px;
+    font-size: 82px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .header__title {
+    max-width: 450px;
+    font-size: 82px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .header__title {
+    max-width: 450px;
+    font-size: 50px;
+    align-items: flex-start;
+    align-self: flex-start;
+    padding-left: 20px;
+    margin-top: 200px;
+  }
+}
+
